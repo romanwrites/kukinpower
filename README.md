@@ -1,4 +1,4 @@
-### Hi there 👋
+### <samp>Hi there 👋 Welcome to my github!</samp>
 
 <!--
 **kukinpower/kukinpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
