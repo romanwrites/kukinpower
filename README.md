@@ -1,5 +1,21 @@
 ### <samp>Hi there 👋 Welcome to my github!</samp>
 
+#### I'm a frontend dev & 21-school student
+
+- 🔭 I'm currently working on **minishell**
+- 🌱 Learning **frontend** and **computer science**
+- ⚙️ I use daily: `.js`, `.c`, `.sh`
+- 💬 Ping me about **Frontend**, **JS**, **React**, **C**
+- ⚡️ Hobbies: coding & writing
+
+
+### Contact me:
+[<img align="left" alt="Roman Kukin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Roman Kukin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+[linkedin]: https://www.linkedin.com/in/harmsmits/
+[twitter]: https://twitter.com/harmsmitsdev
+
 <!--
 **kukinpower/kukinpower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
