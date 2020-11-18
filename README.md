@@ -2,7 +2,7 @@
 
 #### I'm a frontend dev & 21-school student
 
-- 🔭 I'm currently working on **minishell**
+- 🔭 I'm currently working on **school projects as: philosophers, CPP module, webserv and CPP ft_containers**
 - 🌱 Learning **frontend** and **computer science**
 - ⚙️ I use daily: `.js`, `.c`, `.sh`
 - 💬 Ping me about **Frontend**, **JS**, **React**, **C**
