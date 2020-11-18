@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **school projects as: philosophers, CPP module, webserv and CPP ft_containers**
 - 🌱 Learning **frontend** and **computer science**
-- ⚙️ I use daily: `.js`, `.c`, `.sh`
+- ⚙️ I use daily: `.js`, `.c`, `.cpp`, `.sh`
 - 💬 Ping me about **Frontend**, **JS**, **React**, **C**
 - ⚡️ Hobbies: coding & writing
 
