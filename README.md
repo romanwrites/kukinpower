@@ -1,11 +1,11 @@
 ### <samp>Hi there 👋 Welcome to my github!</samp>
 
-#### I'm a frontend dev & 21-school student
+#### 21-school student
 
-- 🔭 I'm currently working on **school projects as: philosophers, CPP module, webserv and CPP ft_containers**
-- 🌱 Learning **frontend** and **computer science**
-- ⚙️ I use daily: `.js`, `.c`, `.cpp`, `.sh`
-- 💬 Ping me about **Frontend**, **JS**, **React**, **C**
+- 🔭 I'm currently working on **school projects as: CPP module, webserv and CPP ft_containers**
+- 🌱 Learning **computer science** and **web development**
+- ⚙️ I use daily: `.java`, `.cpp`, `.js`, `.sh`
+- 💬 Ping me about **Java**, **JavaScript**, **Web development**, **C/C++**
 - ⚡️ Hobbies: coding & writing
 
 
