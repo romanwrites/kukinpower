@@ -2,11 +2,11 @@
 
 #### 21-school student
 
-- 🔭 I'm currently working on **school projects as: CPP module, webserv and CPP ft_containers**
+- 🔭 I'm currently working on **school projects as: my implementation of STL containers, my webserver on C++**
 - 🌱 Learning **computer science** and **web development**
 - ⚙️ I use daily: `.java`, `.cpp`, `.js`, `.sh`
 - 💬 Ping me about **Java**, **JavaScript**, **Web development**, **C/C++**
-- ⚡️ Hobbies: coding & writing
+- ⚡️ Hobbies: coding & writing & swimming
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukinpower&hide=swift,roff,php&langs_count=8&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
