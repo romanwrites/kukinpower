@@ -2,10 +2,10 @@
 
 #### 21-school student
 
-- 🔭 I'm currently working on **school projects as: my implementation of STL containers, my webserver on C++**
-- 🌱 Learning **computer science** and **web development**
+- 🔭 I'm currently working on **Java various apps, my implementation of C++ STL containers, my webserver in C++**
+- 🌱 Learning **backend development** and **computer science**
 - ⚙️ I use daily: `.java`, `.cpp`, `.js`, `.sh`
-- 💬 Ping me about **Java**, **JavaScript**, **Web development**, **C/C++**
+- 💬 Ping me about **Java**, **backend development**, **C/C++**
 - ⚡️ Hobbies: coding & writing & swimming
 
 <p>
