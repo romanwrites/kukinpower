@@ -9,7 +9,7 @@
 - ⚡️ Hobbies: coding & writing & swimming
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukinpower&hide=swift,roff,php&langs_count=8&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukinpower&hide=swift,roff,php,Makefile,Cmake&langs_count=8&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 </p>
 
 ### Contact me:
