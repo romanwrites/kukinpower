@@ -5,8 +5,8 @@
 - 🔭 I'm currently working on **various Java apps, my implementation of C++ STL containers, my webserver in C++**
 - 🌱 Learning **backend development** and **computer science**
 - ⚙️ I use daily: `.java`, `.cpp`, `.js`, `.sh`
-- 💬 Ping me about **Java**, **backend development**, **C/C++**
-- ⚡️ Hobbies: coding & writing & swimming
+- 💬 Ping me about **Java**, **Spring**, **backend development**, **C/C++**
+- ⚡️ Hobbies: coding & writing & swimming & cycling
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kukinpower&hide=swift,roff,php,Makefile,Cmake&langs_count=8&layout=compact&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
