@@ -1,10 +1,10 @@
 ### <samp>Hi there 👋 Welcome to my github!</samp>
 
-#### 21-school student
+#### Java backend developer & 21-school student
 
-- 🔭 I'm currently working on **various Java apps, my implementation of C++ STL containers, my webserver in C++**
+- 🔭 I'm currently working on **various Java apps, my webserver in C++**
 - 🌱 Learning **backend development** and **computer science**
-- ⚙️ I use daily: `.java`, `.cpp`, `.js`, `.sh`
+- ⚙️ I use daily: `.java`, `Spring`, `.cpp`, `.sh`
 - 💬 Ping me about **Java**, **Spring**, **backend development**, **C/C++**
 - ⚡️ Hobbies: coding & writing & swimming & cycling
 
