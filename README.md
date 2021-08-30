@@ -2,9 +2,9 @@
 
 #### Java backend developer & 21-school student
 
-- 🔭 I'm currently working on **various Java apps, my webserver in C++**
+- 🔭 I'm currently developing microservices at **Sber**
 - 🌱 Learning **backend development** and **computer science**
-- ⚙️ I use daily: `.java`, `Spring`, `.cpp`, `.sh`
+- ⚙️ I use daily: `.java` & `Spring`
 - 💬 Ping me about **Java**, **Spring**, **backend development**, **C/C++**
 - ⚡️ Hobbies: coding & writing & swimming & cycling
 
